@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="14 292 394 162" width="394pt" height="162pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.2.2 
+    <dc:date>2017-01-28 16:09:16 +0000</dc:date>
+  </metadata>
+  <defs>
+    <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff914d"/>
+      <stop offset="1" stop-color="#dead26"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(51.75 367) rotate(90) scale(38)"/>
+    <font-face font-family="Input Mono Compressed" font-size="14" panose-1="2 0 5 9 2 0 0 9 0 4" units-per-em="1000" underline-position="0" underline-thickness="67.47186" slope="0" x-height="554.54545" cap-height="736.3636" ascent="927.2766" descent="-272.72034" font-weight="500" font-stretch="condensed">
+      <font-face-src>
+        <font-face-name name="InputMonoCompressed-Regular"/>
+      </font-face-src>
+    </font-face>
+    <linearGradient id="Obj_Gradient_2" xl:href="#Gradient" gradientTransform="translate(177.75 367) rotate(90) scale(38)"/>
+    <linearGradient id="Obj_Gradient_3" xl:href="#Gradient" gradientTransform="translate(177.75 405) rotate(90) scale(24)"/>
+    <font-face font-family="Input Mono Compressed" font-size="10" panose-1="2 0 5 9 2 0 0 9 0 4" units-per-em="1000" underline-position="0" underline-thickness="70.84545" slope="-500" x-height="554.54545" cap-height="736.3636" ascent="927.2766" descent="-272.72034" font-style="italic" font-weight="500" font-stretch="condensed">
+      <font-face-src>
+        <font-face-name name="InputMonoCompressed-Italic"/>
+      </font-face-src>
+    </font-face>
+    <linearGradient id="Obj_Gradient_4" xl:href="#Gradient" gradientTransform="translate(177.75 429) rotate(90) scale(24)"/>
+    <linearGradient id="Obj_Gradient_5" xl:href="#Gradient" gradientTransform="translate(52 405) rotate(90) scale(24)"/>
+    <linearGradient id="Obj_Gradient_6" xl:href="#Gradient" gradientTransform="translate(52 429) rotate(90) scale(24)"/>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledBall_Marker" viewBox="-4 -3 5 6" markerWidth="5" markerHeight="6" color="black">
+      <g>
+        <circle cx="-1.3499994" cy="0" r="1.3499988" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <linearGradient id="Obj_Gradient_7" xl:href="#Gradient" gradientTransform="translate(302.6 367) rotate(90) scale(38)"/>
+    <linearGradient id="Obj_Gradient_8" xl:href="#Gradient" gradientTransform="translate(302.6 405) rotate(90) scale(24)"/>
+    <linearGradient id="Obj_Gradient_9" xl:href="#Gradient" gradientTransform="translate(302.6 429) rotate(90) scale(24)"/>
+    <font-face font-family="Input Sans" font-size="21" panose-1="2 0 5 6 2 0 0 9 0 4" units-per-em="1000" underline-position="0" underline-thickness="67.47186" slope="0" x-height="554.54545" cap-height="736.3636" ascent="927.2766" descent="-272.72034" font-weight="500">
+      <font-face-src>
+        <font-face-name name="InputSans-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <g>
+      <path d="M 88.5 378.2442 C 88.5 374.64446 87.56655 374.1991 80.747955 370.6366 L 80.675925 370.59974 C 73.821315 367 73.75002 367 66.715335 367 C 57.348495 367 15 367 15 367 L 15 405 L 88.5 405 L 88.5 378.2442 Z" fill="url(#Obj_Gradient)"/>
+      <path d="M 88.5 378.2442 C 88.5 374.64446 87.56655 374.1991 80.747955 370.6366 L 80.675925 370.59974 C 73.821315 367 73.75002 367 66.715335 367 C 57.348495 367 15 367 15 367 L 15 405 L 88.5 405 L 88.5 378.2442 Z M 88.5 378.05876 C 88.5 374.64446 88.42797 374.64446 73.75002 374.64446 L 73.75002 374.64446 C 73.75002 367.03724 73.75002 367 67.146045 367" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(20 376)" fill="black">
+        <tspan font-family="Input Mono Compressed" font-size="14" font-weight="500" font-stretch="condensed" fill="black" x="9.413636" y="16" textLength="44.672727">{JSON}</tspan>
+      </text>
+      <circle cx="51.75" cy="309.625" r="16.625027" fill="#cffee2"/>
+      <circle cx="51.75" cy="309.625" r="16.625027" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(39.115 299.625)" fill="black">
+        <tspan font-family="Input Mono Compressed" font-size="14" font-weight="500" font-stretch="condensed" fill="black" x="9.577273" y="16" textLength="7.4454545">#</tspan>
+      </text>
+      <line x1="51.75" y1="326.75" x2="51.75" y2="366.5" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M 214.5 378.2442 C 214.5 374.64446 213.56655 374.1991 206.74796 370.6366 L 206.67592 370.59974 C 199.82132 367 199.75002 367 192.71534 367 C 183.3485 367 141 367 141 367 L 141 405 L 214.5 405 L 214.5 378.2442 Z" fill="url(#Obj_Gradient_2)"/>
+      <path d="M 214.5 378.2442 C 214.5 374.64446 213.56655 374.1991 206.74796 370.6366 L 206.67592 370.59974 C 199.82132 367 199.75002 367 192.71534 367 C 183.3485 367 141 367 141 367 L 141 405 L 214.5 405 L 214.5 378.2442 Z M 214.5 378.05876 C 214.5 374.64446 214.42797 374.64446 199.75002 374.64446 L 199.75002 374.64446 C 199.75002 367.03724 199.75002 367 193.14604 367" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(146 376)" fill="black">
+        <tspan font-family="Input Mono Compressed" font-size="14" font-weight="500" font-stretch="condensed" x="9.413636" y="16" textLength="44.672727">{JSON}</tspan>
+      </text>
+      <circle cx="177.75" cy="309.625" r="16.625027" fill="#cffee2"/>
+      <circle cx="177.75" cy="309.625" r="16.625027" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(165.115 299.625)" fill="black">
+        <tspan font-family="Input Mono Compressed" font-size="14" font-weight="500" font-stretch="condensed" x="9.577273" y="16" textLength="7.4454545">#</tspan>
+      </text>
+      <line x1="177.75" y1="326.75" x2="177.75" y2="366.5" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect x="141" y="405" width="73.5" height="24" fill="url(#Obj_Gradient_3)"/>
+      <rect x="141" y="405" width="73.5" height="24" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(146 410)" fill="black">
+        <tspan font-family="Input Mono Compressed" font-size="10" font-style="italic" font-weight="500" font-stretch="condensed" fill="black" x="13.136364" y="11" textLength="37.227273">parents</tspan>
+      </text>
+      <rect x="141" y="429" width="73.5" height="24" fill="url(#Obj_Gradient_4)"/>
+      <rect x="141" y="429" width="73.5" height="24" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(146 434)" fill="black">
+        <tspan font-family="Input Mono Compressed" font-size="10" font-style="italic" font-weight="500" font-stretch="condensed" fill="black" x="7.818182" y="11" textLength="47.863636">signature</tspan>
+      </text>
+      <rect x="15.25" y="405" width="73.5" height="24" fill="url(#Obj_Gradient_5)"/>
+      <rect x="15.25" y="405" width="73.5" height="24" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(20.25 410)" fill="black">
+        <tspan font-family="Input Mono Compressed" font-size="10" font-style="italic" font-weight="500" font-stretch="condensed" fill="black" x="13.136364" y="11" textLength="37.227273">parents</tspan>
+      </text>
+      <rect x="15.25" y="429" width="73.5" height="24" fill="url(#Obj_Gradient_6)"/>
+      <rect x="15.25" y="429" width="73.5" height="24" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(20.25 434)" fill="black">
+        <tspan font-family="Input Mono Compressed" font-size="10" font-style="italic" font-weight="500" font-stretch="condensed" fill="black" x="7.818182" y="11" textLength="47.863636">signature</tspan>
+      </text>
+      <path d="M 75.27496 309.577 L 113 309.5 L 113.84375 417 L 140.5 417" marker-start="url(#FilledBall_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="4,4"/>
+      <path d="M 339.35 378.2442 C 339.35 374.64446 338.41656 374.1991 331.59797 370.6366 L 331.52594 370.59974 C 324.67133 367 324.60003 367 317.56535 367 C 308.1985 367 265.85 367 265.85 367 L 265.85 405 L 339.35 405 L 339.35 378.2442 Z" fill="url(#Obj_Gradient_7)"/>
+      <path d="M 339.35 378.2442 C 339.35 374.64446 338.41656 374.1991 331.59797 370.6366 L 331.52594 370.59974 C 324.67133 367 324.60003 367 317.56535 367 C 308.1985 367 265.85 367 265.85 367 L 265.85 405 L 339.35 405 L 339.35 378.2442 Z M 339.35 378.05876 C 339.35 374.64446 339.278 374.64446 324.60003 374.64446 L 324.60003 374.64446 C 324.60003 367.03724 324.60003 367 317.99606 367" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(270.85 376)" fill="black">
+        <tspan font-family="Input Mono Compressed" font-size="14" font-weight="500" font-stretch="condensed" x="9.413636" y="16" textLength="44.672727">{JSON}</tspan>
+      </text>
+      <circle cx="302.6" cy="309.625" r="16.625027" fill="#cffee2"/>
+      <circle cx="302.6" cy="309.625" r="16.625027" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(289.965 299.625)" fill="black">
+        <tspan font-family="Input Mono Compressed" font-size="14" font-weight="500" font-stretch="condensed" x="9.577273" y="16" textLength="7.4454545">#</tspan>
+      </text>
+      <line x1="302.6" y1="326.75" x2="302.6" y2="366.5" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect x="265.85" y="405" width="73.5" height="24" fill="url(#Obj_Gradient_8)"/>
+      <rect x="265.85" y="405" width="73.5" height="24" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(270.85 410)" fill="black">
+        <tspan font-family="Input Mono Compressed" font-size="10" font-style="italic" font-weight="500" font-stretch="condensed" fill="black" x="13.136364" y="11" textLength="37.227273">parents</tspan>
+      </text>
+      <rect x="265.85" y="429" width="73.5" height="24" fill="url(#Obj_Gradient_9)"/>
+      <rect x="265.85" y="429" width="73.5" height="24" stroke="#3e2e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(270.85 434)" fill="black">
+        <tspan font-family="Input Mono Compressed" font-size="10" font-style="italic" font-weight="500" font-stretch="condensed" fill="black" x="7.818182" y="11" textLength="47.863636">signature</tspan>
+      </text>
+      <path d="M 201.27496 309.57607 L 237.85 309.5 L 238.69376 417 L 265.35 417" marker-start="url(#FilledBall_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="4,4"/>
+      <text transform="translate(379.8 386.3)" fill="black">
+        <tspan font-family="Input Sans" font-size="21" font-weight="500" x=".045454545" y="24" textLength="22.90909">…</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
